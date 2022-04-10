@@ -1,0 +1,10 @@
+C:\Users\arnal\OneDrive\Documentos\Uninove\CSharp\NewHelloWord\HelloWorld2\bin\Debug\HelloWorld2.exe.config
+C:\Users\arnal\OneDrive\Documentos\Uninove\CSharp\NewHelloWord\HelloWorld2\bin\Debug\HelloWorld2.exe
+C:\Users\arnal\OneDrive\Documentos\Uninove\CSharp\NewHelloWord\HelloWorld2\bin\Debug\HelloWorld2.pdb
+C:\Users\arnal\OneDrive\Documentos\Uninove\CSharp\NewHelloWord\HelloWorld2\obj\Debug\HelloWorld2.csproj.AssemblyReference.cache
+C:\Users\arnal\OneDrive\Documentos\Uninove\CSharp\NewHelloWord\HelloWorld2\obj\Debug\HelloWorld2.Form1.resources
+C:\Users\arnal\OneDrive\Documentos\Uninove\CSharp\NewHelloWord\HelloWorld2\obj\Debug\HelloWorld2.Properties.Resources.resources
+C:\Users\arnal\OneDrive\Documentos\Uninove\CSharp\NewHelloWord\HelloWorld2\obj\Debug\HelloWorld2.csproj.GenerateResource.cache
+C:\Users\arnal\OneDrive\Documentos\Uninove\CSharp\NewHelloWord\HelloWorld2\obj\Debug\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\arnal\OneDrive\Documentos\Uninove\CSharp\NewHelloWord\HelloWorld2\obj\Debug\HelloWorld2.exe
+C:\Users\arnal\OneDrive\Documentos\Uninove\CSharp\NewHelloWord\HelloWorld2\obj\Debug\HelloWorld2.pdb
